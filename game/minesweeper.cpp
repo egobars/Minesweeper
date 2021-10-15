@@ -1,4 +1,5 @@
 #include "minesweeper.h"
+#include <algorithm>
 #include <ctime>
 #include <queue>
 #include <random>
